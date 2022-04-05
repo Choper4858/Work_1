@@ -1,5 +1,10 @@
 #include <iostream>
 
+/**
+* Я Рустам Хасенов, я староста группы КЭ-317, и это моя программа
+* Честно
+*/
+
 int main()
 {
 	int a;
@@ -9,6 +14,8 @@ int main()
 	cin >> a >> b;
 	
 	cout << "a - b = " << (a - b) << endl;
+	cout << "a + b = " << (a + b) << endl;
+	cout << "a * b = " << (a * b) << endl;
 	
 	return EXIT_SUCCESS;
 }
