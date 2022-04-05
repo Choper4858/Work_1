@@ -2,7 +2,7 @@
 
 /**
 * Я Рустам Хасенов, я староста группы КЭ-317, и это моя программа
-* Честно
+* Честно на 80%
 */
 
 int main()
@@ -15,7 +15,7 @@ int main()
 	
 	cout << "a - b = " << (a - b) << endl;
 	cout << "a + b = " << (a + b) << endl;
-	cout << "a * b = " << (a * b) << endl;
+	cout << "a / b = " << (a / b) << endl;
 	
 	return EXIT_SUCCESS;
 }
