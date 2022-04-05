@@ -8,5 +8,7 @@ int main()
 	cout << "Input a & b through space:";
 	cin >> a >> b;
 	
+	cout << "a - b = " << (a - b) << endl;
+	
 	return EXIT_SUCCESS;
 }
